@@ -46,7 +46,7 @@ export default function App() {
   return (
     <div className="App">
       <header>
-        <h1>Currency Converter</h1>
+        <h1>Exchange Rate Viewer</h1>
       </header>
       <main>
         {isLoading ? (
